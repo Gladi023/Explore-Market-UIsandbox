@@ -1,0 +1,11 @@
+.Tilt {
+    background: linear-gradient(89deg, #14cc9b 0%, #160b47 100%); /* w3c */
+}
+h1 {
+    font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+}
