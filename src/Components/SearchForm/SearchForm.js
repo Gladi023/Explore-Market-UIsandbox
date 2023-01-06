@@ -4,7 +4,7 @@ const SearchForm = () => {
     return (
         <div>
             <p className='f2 white'>
-                {'Explore the Marketplace'}
+                {'Welcome'}
             </p>
             <div className='form pa4 br3 shadow-5' >
                 <input className='f3 pa2 w-50 center' type='text' />

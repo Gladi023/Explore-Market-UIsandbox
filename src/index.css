@@ -12,14 +12,21 @@ code {
     monospace;
 }
 */
+
+
+
+
+
+
+
 body {
   margin: 0;
   padding: 0;
   font: 'Raleway', sans-serif;
   font-family: 'Courier New', Courier, monospace;
-  /*font-family: "Courier New", Courier, monospace;*/
+  font-family: "Courier New", Courier, monospace;
   background: linear-gradient(89deg, #14cc9b 0%, #160b47 100%); /* w3c */
-}
+};
 
 button {
   cursor: pointer;

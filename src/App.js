@@ -1,5 +1,11 @@
+
+
+
 //import logo from './logo.svg';
 // import React, { Component } from 'react';
+
+
+
 import Navigation from './Components/Navigation/Navigation';
 import Logo from './Components/Logo/Logo'
 import SearchForm from './Components/SearchForm/SearchForm';
@@ -20,6 +26,9 @@ function App() {
        <SearchForm />
        <UserDash />
        <ProductCard />
+
+
+
      {/*  <Home />
       <Travel />
       <Product />
@@ -27,8 +36,7 @@ function App() {
   <Footer />*/}
 
 
-
-    </div>
+   </div>
   );
 }
 
